@@ -1,5 +1,9 @@
-[encabezado 1] [encabezado 2] [encabezado 3]
-[---------] [---------] [---------]
-[reglo 1, coumna 1]  [reglon 1, columna 2]  [reglon 1,   columna 3]
-[reglon 2, columna 1] [reglon 2, columna 2 ] [reglon 2 , columna 3]
-[reglon 3, columna 1] [reglon 3, columna 2]  [reglon 3 , columna 3]
+# Clase de Redes
+## Columna de redes
+### **¿Qué es el formato Markdown?*
+#### Markdown fue desarrollado en 2004 por John Gruber, y se refiere tanto a (1) una manera de formar archivos de texto, como a (2) una utilidad del lenguaje de programación Perl para convertir archivos Markdown en HTML. En esta lección nos centraremos en la primera acepción y aprenderemos a escribir archivos utilizando la sintaxis de Markdown.
+
+Lista de materias con notas
+| lengua  | matematicas| sistema| 
+|-----------|:-------:|----------:|
+|     9     |    4   |    7     
